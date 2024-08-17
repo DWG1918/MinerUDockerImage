@@ -25,3 +25,5 @@
    # wget https://gitee.com/myhloli/MinerU/raw/master/demo/small_ocr.pdf
    magic-pdf -p small_ocr.pdf
    ```
+
+4. 提取结果在`/PDF-Extract-Kit/output`中，源代码示例仓库也被拉取到`/MinerU`目录下。
